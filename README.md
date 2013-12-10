@@ -1,2 +1,2 @@
-iOS Star Rating
-===============
+iOS Star Rating Control
+=======================
