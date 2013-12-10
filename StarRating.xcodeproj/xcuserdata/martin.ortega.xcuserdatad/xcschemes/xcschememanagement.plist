@@ -9,9 +9,24 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>StarRatingTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>8C14071B1857DC9E00DE67F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8C1407281857DC9E00DE67F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8C7E3B9D1846903F004333A7</key>
 		<dict>
 			<key>primary</key>

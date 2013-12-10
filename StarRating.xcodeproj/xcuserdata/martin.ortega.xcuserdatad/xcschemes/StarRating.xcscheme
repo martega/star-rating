@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8C7E3B9D1846903F004333A7"
-               BuildableName = "StarRating.app"
+               BlueprintIdentifier = "8C14071B1857DC9E00DE67F8"
+               BuildableName = "libStarRating.a"
                BlueprintName = "StarRating"
                ReferencedContainer = "container:StarRating.xcodeproj">
             </BuildableReference>
@@ -42,8 +42,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C7E3B9D1846903F004333A7"
-            BuildableName = "StarRating.app"
+            BlueprintIdentifier = "8C14071B1857DC9E00DE67F8"
+            BuildableName = "libStarRating.a"
             BlueprintName = "StarRating"
             ReferencedContainer = "container:StarRating.xcodeproj">
          </BuildableReference>
@@ -61,8 +61,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C7E3B9D1846903F004333A7"
-            BuildableName = "StarRating.app"
+            BlueprintIdentifier = "8C14071B1857DC9E00DE67F8"
+            BuildableName = "libStarRating.a"
             BlueprintName = "StarRating"
             ReferencedContainer = "container:StarRating.xcodeproj">
          </BuildableReference>
@@ -79,8 +79,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C7E3B9D1846903F004333A7"
-            BuildableName = "StarRating.app"
+            BlueprintIdentifier = "8C14071B1857DC9E00DE67F8"
+            BuildableName = "libStarRating.a"
             BlueprintName = "StarRating"
             ReferencedContainer = "container:StarRating.xcodeproj">
          </BuildableReference>

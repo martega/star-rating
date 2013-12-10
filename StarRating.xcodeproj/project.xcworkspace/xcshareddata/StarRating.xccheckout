@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C91E6250-EFC1-49D1-8495-62610A3B79BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StarRating</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EA097322-1C33-4ECE-9EC4-94FD14CE7EA8</key>
+		<string>https://github.com/martega/star-rating.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StarRating.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EA097322-1C33-4ECE-9EC4-94FD14CE7EA8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/martega/star-rating.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EA097322-1C33-4ECE-9EC4-94FD14CE7EA8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA097322-1C33-4ECE-9EC4-94FD14CE7EA8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-star-rating</string>
+		</dict>
+	</array>
+</dict>
+</plist>
